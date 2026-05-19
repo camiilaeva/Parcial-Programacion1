@@ -71,11 +71,6 @@ Parcial-Programacion1/
 
 ---
 
-## ▶️ ¿Cómo ejecutar?
-
-```bash
-python main.py
-```
 
 > Todos los archivos deben estar en la misma carpeta.
 
